@@ -17,8 +17,7 @@
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:padding="8dp"
-            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck">
+            android:padding="8dp">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -26,9 +25,52 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="400dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:src="@drawable/pengukuran" />
+                    android:src="@drawable/ppbw"
+                    android:layout_marginTop="190dp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
             </LinearLayout>

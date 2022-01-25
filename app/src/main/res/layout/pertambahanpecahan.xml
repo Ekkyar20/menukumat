@@ -104,7 +104,7 @@
                 <ImageView
                     android:layout_width="230dp"
                     android:layout_height="151dp"
-                    android:layout_marginHorizontal="105dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/rumus1" />
 
@@ -161,14 +161,14 @@
                 <ImageView
                     android:layout_width="230dp"
                     android:layout_height="151dp"
-                    android:layout_marginHorizontal="80dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/materi1" />
 
                 <ImageView
                     android:layout_width="230dp"
                     android:layout_height="151dp"
-                    android:layout_marginHorizontal="80dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/materi2" />
 
@@ -250,8 +250,8 @@
                 <ImageView
                     android:layout_width="190dp"
                     android:layout_height="100dp"
-                    android:layout_marginHorizontal="100dp"
-                    android:layout_marginTop="20dp"
+                    android:layout_marginHorizontal="30dp"
+                    android:layout_marginTop="30dp"
                     android:background="@drawable/matteri3" />
                 <TextView
                     android:layout_width="wrap_content"
@@ -294,14 +294,14 @@
                 <ImageView
                     android:layout_width="180dp"
                     android:layout_height="100dp"
-                    android:layout_marginHorizontal="100dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/materi4" />
 
                 <TextView
                     android:layout_width="80dp"
                     android:layout_height="50dp"
-                    android:layout_marginHorizontal="70dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="10dp"
                     android:justificationMode="inter_word"
                     android:text=" contoh : "
@@ -311,7 +311,7 @@
                 <TextView
                     android:layout_width="260dp"
                     android:layout_height="100dp"
-                    android:layout_marginHorizontal="70dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="10dp"
                     android:justificationMode="inter_word"
                     android:text="Doni ingin membuat sebuah kemeja sehingga membutuhkan ½ meter bahan kain. Jika Doni ingin membuat 3 kemeja maka berapa meter kah bahan kain yang harus Doni perlukan ? "
@@ -421,7 +421,7 @@
                 <ImageView
                     android:layout_width="180dp"
                     android:layout_height="100dp"
-                    android:layout_marginHorizontal="100dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/materi6" />
 
@@ -467,18 +467,17 @@
                 <ImageView
                     android:layout_width="180dp"
                     android:layout_height="100dp"
-                    android:layout_marginHorizontal="100dp"
+                    android:layout_marginHorizontal="30dp"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/materi7" />
 
                 <TextView
-                    android:layout_width="350dp"
-                    android:layout_height="100dp"
-                    android:layout_marginHorizontal="30dp"
+                    android:layout_width="310dp"
+                    android:layout_height="130dp"
+                    android:layout_marginHorizontal="5dp"
                     android:layout_marginTop="10dp"
                     android:justificationMode="inter_word"
                     android:text="Setelah oprasi pembagi berubah menjadi operasi kali setelah itu selanjutnya kalian dapat operasikan pembilang yang d kali dengan pebilang, maka penyebut akan dikali penyebut.
-
 Dari itu nanti akan di dapatkan lah nilai 14/7 dengan begini hasil dari pembagian yang ada di atas masih dapat kalian sederhanakan lagi menjadi 14/7 = 2 .."
                     android:textColor="#000000"
                     android:textSize="14dp"
